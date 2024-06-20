@@ -1,0 +1,154 @@
+2024-05-07 07:32:14,027 - INFO - log_utils - -----Logs Starting------ - Host: HP14-Win10
+2024-05-07 07:32:14,027 - INFO - train - Training Models... - Host: HP14-Win10
+2024-05-07 07:32:14,027 - INFO - data - Fetching Data... - Host: HP14-Win10
+2024-05-07 07:32:14,027 - INFO - data - Reading Dataset... - Host: HP14-Win10
+2024-05-07 07:32:14,062 - INFO - data - Preprocessing Dataset... - Host: HP14-Win10
+2024-05-07 07:32:14,063 - INFO - preprocess - Preprocessing data... - Host: HP14-Win10
+2024-05-07 07:32:14,063 - INFO - preprocess - Encoding categorical data... - Host: HP14-Win10
+2024-05-07 07:32:14,063 - INFO - preprocess - Handling missing data... - Host: HP14-Win10
+2024-05-07 07:32:14,073 - INFO - preprocess - Performing feature scaling... - Host: HP14-Win10
+2024-05-07 07:32:14,078 - INFO - data - Splitting Dataset... - Host: HP14-Win10
+2024-05-07 07:32:14,081 - INFO - train - Calculating best parameters for models... - Host: HP14-Win10
+2024-05-07 07:32:14,081 - INFO - train - Calculating best parameters for SVC... - Host: HP14-Win10
+2024-05-07 07:32:17,806 - INFO - train - Calculating best parameters for KNeighborsClassifier... - Host: HP14-Win10
+2024-05-07 07:32:18,009 - INFO - train - Calculating best parameters for DecisionTreeClassifier... - Host: HP14-Win10
+2024-05-07 07:32:18,150 - INFO - train - Calculating best parameters for RandomForestClassifier... - Host: HP14-Win10
+2024-05-07 07:32:27,299 - INFO - train - Calculating best parameters for LGBMClassifier... - Host: HP14-Win10
+2024-05-07 09:23:34,948 - INFO - train - Calculating best parameters for AdaBoostClassifier... - Host: HP14-Win10
+2024-05-07 09:23:40,787 - INFO - train - Calculating best parameters for XGBClassifier... - Host: HP14-Win10
+2024-05-07 09:23:52,954 - ERROR - train - Training model KNeighborsClassifier - Host: HP14-Win10
+2024-05-07 09:23:52,954 - ERROR - train - Training model DecisionTreeClassifier - Host: HP14-Win10
+2024-05-07 09:23:52,954 - ERROR - train - Training model SVC - Host: HP14-Win10
+2024-05-07 09:23:52,954 - ERROR - train - Training model RandomForestClassifier - Host: HP14-Win10
+2024-05-07 09:23:52,962 - ERROR - train - Training model AdaBoostClassifier - Host: HP14-Win10
+2024-05-07 09:23:52,962 - ERROR - train - Training model LGBMClassifier - Host: HP14-Win10
+2024-05-07 09:23:52,963 - ERROR - train - Training model XGBClassifier - Host: HP14-Win10
+2024-05-07 09:23:52,963 - ERROR - train - Training model SimpleLayeredClassifier - Host: HP14-Win10
+2024-05-07 09:23:52,963 - INFO - train - Training Simple Layered Classifier... - Host: HP14-Win10
+2024-05-07 09:24:32,933 - ERROR - train - Training model MultiLayerClassifier - Host: HP14-Win10
+2024-05-07 09:24:32,933 - INFO - train - Training Multi Layer Classifier... - Host: HP14-Win10
+2024-05-07 09:27:19,246 - INFO - log_utils - -----Logs Starting------ - Host: HP14-Win10
+2024-05-07 09:27:19,246 - INFO - train - Training Models... - Host: HP14-Win10
+2024-05-07 09:27:19,250 - INFO - data - Fetching Data... - Host: HP14-Win10
+2024-05-07 09:27:19,250 - INFO - data - Reading Dataset... - Host: HP14-Win10
+2024-05-07 09:27:19,250 - INFO - data - Preprocessing Dataset... - Host: HP14-Win10
+2024-05-07 09:27:19,250 - INFO - preprocess - Preprocessing data... - Host: HP14-Win10
+2024-05-07 09:27:19,250 - INFO - preprocess - Encoding categorical data... - Host: HP14-Win10
+2024-05-07 09:27:19,250 - INFO - preprocess - Handling missing data... - Host: HP14-Win10
+2024-05-07 09:27:19,250 - INFO - preprocess - Performing feature scaling... - Host: HP14-Win10
+2024-05-07 09:27:19,267 - INFO - data - Splitting Dataset... - Host: HP14-Win10
+2024-05-07 09:27:19,267 - INFO - train - Calculating best parameters for models... - Host: HP14-Win10
+2024-05-07 09:27:19,267 - INFO - train - Calculating best parameters for SVC... - Host: HP14-Win10
+2024-05-07 09:27:22,815 - INFO - train - Calculating best parameters for KNeighborsClassifier... - Host: HP14-Win10
+2024-05-07 09:27:22,971 - INFO - train - Calculating best parameters for DecisionTreeClassifier... - Host: HP14-Win10
+2024-05-07 09:27:23,051 - INFO - train - Calculating best parameters for RandomForestClassifier... - Host: HP14-Win10
+2024-05-07 09:27:29,823 - INFO - train - Calculating best parameters for LGBMClassifier... - Host: HP14-Win10
+2024-05-07 09:28:25,397 - INFO - train - Calculating best parameters for AdaBoostClassifier... - Host: HP14-Win10
+2024-05-07 09:28:29,963 - INFO - train - Calculating best parameters for XGBClassifier... - Host: HP14-Win10
+2024-05-07 09:28:45,886 - INFO - train - Training model KNeighborsClassifier - Host: HP14-Win10
+2024-05-07 09:28:45,886 - INFO - train - Training model DecisionTreeClassifier - Host: HP14-Win10
+2024-05-07 09:28:45,886 - INFO - train - Training model SVC - Host: HP14-Win10
+2024-05-07 09:28:45,898 - INFO - train - Training model RandomForestClassifier - Host: HP14-Win10
+2024-05-07 09:28:45,898 - INFO - train - Training model AdaBoostClassifier - Host: HP14-Win10
+2024-05-07 09:28:45,898 - INFO - train - Training model LGBMClassifier - Host: HP14-Win10
+2024-05-07 09:28:45,898 - INFO - train - Training model XGBClassifier - Host: HP14-Win10
+2024-05-07 09:28:45,898 - INFO - train - Training model SimpleLayeredClassifier - Host: HP14-Win10
+2024-05-07 09:28:45,898 - INFO - train - Training Simple Layered Classifier... - Host: HP14-Win10
+2024-05-07 09:29:24,278 - INFO - train - Training model MultiLayerClassifier - Host: HP14-Win10
+2024-05-07 09:29:24,278 - INFO - train - Training Multi Layer Classifier... - Host: HP14-Win10
+2024-05-07 10:28:51,759 - INFO - train - Training Models Complete. - Host: HP14-Win10
+2024-05-07 10:28:51,764 - INFO - train - Model KNeighborsClassifier saved successfully. - Host: HP14-Win10
+2024-05-07 10:28:51,774 - INFO - train - Model DecisionTreeClassifier saved successfully. - Host: HP14-Win10
+2024-05-07 10:28:51,783 - INFO - train - Model SVC saved successfully. - Host: HP14-Win10
+2024-05-07 10:28:51,896 - INFO - train - Model RandomForestClassifier saved successfully. - Host: HP14-Win10
+2024-05-07 10:28:51,921 - INFO - train - Model AdaBoostClassifier saved successfully. - Host: HP14-Win10
+2024-05-07 10:28:52,213 - INFO - train - Model LGBMClassifier saved successfully. - Host: HP14-Win10
+2024-05-07 10:28:52,294 - INFO - train - Model XGBClassifier saved successfully. - Host: HP14-Win10
+2024-05-07 10:28:52,352 - INFO - train - Model SimpleLayeredClassifier saved successfully. - Host: HP14-Win10
+2024-05-07 10:28:53,123 - INFO - train - Model MultiLayerClassifier saved successfully. - Host: HP14-Win10
+2024-05-07 10:28:53,139 - INFO - train - Best parameters saved successfully. - Host: HP14-Win10
+2024-05-07 10:28:53,139 - INFO - train - Evaluating models... - Host: HP14-Win10
+2024-05-07 10:28:53,154 - INFO - train - Evaluating model KNeighborsClassifier... - Host: HP14-Win10
+2024-05-07 10:28:53,154 - INFO - train - Evaluating model DecisionTreeClassifier... - Host: HP14-Win10
+2024-05-07 10:28:53,217 - INFO - train - Evaluating model SVC... - Host: HP14-Win10
+2024-05-07 10:28:53,248 - INFO - train - Evaluating model RandomForestClassifier... - Host: HP14-Win10
+2024-05-07 10:28:53,286 - INFO - train - Evaluating model AdaBoostClassifier... - Host: HP14-Win10
+2024-05-07 10:28:53,332 - INFO - train - Evaluating model LGBMClassifier... - Host: HP14-Win10
+2024-05-07 10:28:53,348 - INFO - train - Evaluating model XGBClassifier... - Host: HP14-Win10
+2024-05-07 10:28:53,479 - INFO - train - Evaluating model SimpleLayeredClassifier... - Host: HP14-Win10
+2024-05-07 10:28:58,244 - INFO - train - Evaluating model MultiLayerClassifier... - Host: HP14-Win10
+2024-05-07 10:28:58,261 - INFO - train - Models trained and saved successfully. - Host: HP14-Win10
+2024-05-07 10:28:58,261 - INFO - visualise_data - Visualizing the dataset... - Host: HP14-Win10
+2024-05-07 10:28:58,261 - INFO - visualise_data - Loading data... - Host: HP14-Win10
+2024-05-07 10:28:58,261 - INFO - visualise_data - Plotting unique label counts... - Host: HP14-Win10
+2024-05-07 10:29:00,805 - INFO - visualise_data - Plotting range of values for label rice... - Host: HP14-Win10
+2024-05-07 10:29:00,883 - INFO - visualise_data - Plotting range of values for label maize... - Host: HP14-Win10
+2024-05-07 10:29:00,914 - INFO - visualise_data - Plotting range of values for label chickpea... - Host: HP14-Win10
+2024-05-07 10:29:00,946 - INFO - visualise_data - Plotting range of values for label kidneybeans... - Host: HP14-Win10
+2024-05-07 10:29:00,977 - INFO - visualise_data - Plotting range of values for label pigeonpeas... - Host: HP14-Win10
+2024-05-07 10:29:01,008 - INFO - visualise_data - Plotting range of values for label mothbeans... - Host: HP14-Win10
+2024-05-07 10:29:01,039 - INFO - visualise_data - Plotting range of values for label mungbean... - Host: HP14-Win10
+2024-05-07 10:29:01,071 - INFO - visualise_data - Plotting range of values for label blackgram... - Host: HP14-Win10
+2024-05-07 10:29:01,102 - INFO - visualise_data - Plotting range of values for label lentil... - Host: HP14-Win10
+2024-05-07 10:29:01,136 - INFO - visualise_data - Plotting range of values for label pomegranate... - Host: HP14-Win10
+2024-05-07 10:29:01,208 - INFO - visualise_data - Plotting range of values for label banana... - Host: HP14-Win10
+2024-05-07 10:29:01,224 - INFO - visualise_data - Plotting range of values for label mango... - Host: HP14-Win10
+2024-05-07 10:29:01,256 - INFO - visualise_data - Plotting range of values for label grapes... - Host: HP14-Win10
+2024-05-07 10:29:01,287 - INFO - visualise_data - Plotting range of values for label watermelon... - Host: HP14-Win10
+2024-05-07 10:29:01,318 - INFO - visualise_data - Plotting range of values for label muskmelon... - Host: HP14-Win10
+2024-05-07 10:29:01,349 - INFO - visualise_data - Plotting range of values for label apple... - Host: HP14-Win10
+2024-05-07 10:29:01,381 - INFO - visualise_data - Plotting range of values for label orange... - Host: HP14-Win10
+2024-05-07 10:29:01,422 - INFO - visualise_data - Plotting range of values for label papaya... - Host: HP14-Win10
+2024-05-07 10:29:01,437 - INFO - visualise_data - Plotting range of values for label coconut... - Host: HP14-Win10
+2024-05-07 10:29:01,469 - INFO - visualise_data - Plotting range of values for label cotton... - Host: HP14-Win10
+2024-05-07 10:29:01,516 - INFO - visualise_data - Plotting range of values for label jute... - Host: HP14-Win10
+2024-05-07 10:29:01,547 - INFO - visualise_data - Plotting range of values for label coffee... - Host: HP14-Win10
+2024-05-07 10:29:01,920 - INFO - visualise_data - Saving plot Data Available for Each Unique Label... - Host: HP14-Win10
+2024-05-07 10:29:03,671 - INFO - visualise_data - Saving plot Range of Values for Label rice... - Host: HP14-Win10
+2024-05-07 10:29:03,721 - INFO - visualise_data - Saving plot Range of Values for Label maize... - Host: HP14-Win10
+2024-05-07 10:29:03,756 - INFO - visualise_data - Saving plot Range of Values for Label chickpea... - Host: HP14-Win10
+2024-05-07 10:29:03,787 - INFO - visualise_data - Saving plot Range of Values for Label kidneybeans... - Host: HP14-Win10
+2024-05-07 10:29:03,825 - INFO - visualise_data - Saving plot Range of Values for Label pigeonpeas... - Host: HP14-Win10
+2024-05-07 10:29:03,870 - INFO - visualise_data - Saving plot Range of Values for Label mothbeans... - Host: HP14-Win10
+2024-05-07 10:29:03,924 - INFO - visualise_data - Saving plot Range of Values for Label mungbean... - Host: HP14-Win10
+2024-05-07 10:29:03,954 - INFO - visualise_data - Saving plot Range of Values for Label blackgram... - Host: HP14-Win10
+2024-05-07 10:29:03,992 - INFO - visualise_data - Saving plot Range of Values for Label lentil... - Host: HP14-Win10
+2024-05-07 10:29:04,025 - INFO - visualise_data - Saving plot Range of Values for Label pomegranate... - Host: HP14-Win10
+2024-05-07 10:29:04,055 - INFO - visualise_data - Saving plot Range of Values for Label banana... - Host: HP14-Win10
+2024-05-07 10:29:04,083 - INFO - visualise_data - Saving plot Range of Values for Label mango... - Host: HP14-Win10
+2024-05-07 10:29:04,111 - INFO - visualise_data - Saving plot Range of Values for Label grapes... - Host: HP14-Win10
+2024-05-07 10:29:04,145 - INFO - visualise_data - Saving plot Range of Values for Label watermelon... - Host: HP14-Win10
+2024-05-07 10:29:04,175 - INFO - visualise_data - Saving plot Range of Values for Label muskmelon... - Host: HP14-Win10
+2024-05-07 10:29:04,201 - INFO - visualise_data - Saving plot Range of Values for Label apple... - Host: HP14-Win10
+2024-05-07 10:29:04,227 - INFO - visualise_data - Saving plot Range of Values for Label orange... - Host: HP14-Win10
+2024-05-07 10:29:04,256 - INFO - visualise_data - Saving plot Range of Values for Label papaya... - Host: HP14-Win10
+2024-05-07 10:29:04,281 - INFO - visualise_data - Saving plot Range of Values for Label coconut... - Host: HP14-Win10
+2024-05-07 10:29:04,309 - INFO - visualise_data - Saving plot Range of Values for Label cotton... - Host: HP14-Win10
+2024-05-07 10:29:04,338 - INFO - visualise_data - Saving plot Range of Values for Label jute... - Host: HP14-Win10
+2024-05-07 10:29:04,365 - INFO - visualise_data - Saving plot Range of Values for Label coffee... - Host: HP14-Win10
+2024-05-07 10:29:04,394 - INFO - visualise_result - Plotting evaluation metrics and save interactively... - Host: HP14-Win10
+2024-05-07 10:29:04,395 - INFO - visualise_result - Reading Evaluation Results's JSON file... - Host: HP14-Win10
+2024-05-07 10:29:04,408 - INFO - visualise_result - Plotting evaluation metrics Bar Plot... - Host: HP14-Win10
+2024-05-07 10:29:04,411 - INFO - visualise_result - Plotting confusion matrix... - Host: HP14-Win10
+2024-05-07 10:29:04,522 - INFO - visualise_result - Plotting evaluation metrics Bar Plot... - Host: HP14-Win10
+2024-05-07 10:29:04,526 - INFO - visualise_result - Plotting confusion matrix... - Host: HP14-Win10
+2024-05-07 10:29:04,594 - INFO - visualise_result - Plotting evaluation metrics Bar Plot... - Host: HP14-Win10
+2024-05-07 10:29:04,598 - INFO - visualise_result - Plotting confusion matrix... - Host: HP14-Win10
+2024-05-07 10:29:04,670 - INFO - visualise_result - Plotting evaluation metrics Bar Plot... - Host: HP14-Win10
+2024-05-07 10:29:04,674 - INFO - visualise_result - Plotting confusion matrix... - Host: HP14-Win10
+2024-05-07 10:29:04,745 - INFO - visualise_result - Plotting evaluation metrics Bar Plot... - Host: HP14-Win10
+2024-05-07 10:29:04,750 - INFO - visualise_result - Plotting confusion matrix... - Host: HP14-Win10
+2024-05-07 10:29:04,828 - INFO - visualise_result - Plotting evaluation metrics Bar Plot... - Host: HP14-Win10
+2024-05-07 10:29:04,832 - INFO - visualise_result - Plotting confusion matrix... - Host: HP14-Win10
+2024-05-07 10:29:04,914 - INFO - visualise_result - Plotting evaluation metrics Bar Plot... - Host: HP14-Win10
+2024-05-07 10:29:04,919 - INFO - visualise_result - Plotting confusion matrix... - Host: HP14-Win10
+2024-05-07 10:29:04,988 - INFO - visualise_result - Plotting evaluation metrics Bar Plot... - Host: HP14-Win10
+2024-05-07 10:29:04,991 - INFO - visualise_result - Plotting confusion matrix... - Host: HP14-Win10
+2024-05-07 10:29:05,059 - INFO - visualise_result - Plotting evaluation metrics Bar Plot... - Host: HP14-Win10
+2024-05-07 10:29:05,063 - INFO - visualise_result - Plotting confusion matrix... - Host: HP14-Win10
+2024-05-07 10:29:05,127 - INFO - predict - Making prediction... - Host: HP14-Win10
+2024-05-07 10:29:05,129 - INFO - predict - Loading model... - Host: HP14-Win10
+2024-05-07 10:29:05,152 - INFO - predict - Feature scaling for prediction... - Host: HP14-Win10
+2024-05-07 10:29:05,163 - INFO - predict - Predicting class... - Host: HP14-Win10
+2024-05-07 10:29:05,172 - INFO - predict - Decoding prediction class... - Host: HP14-Win10
+2024-05-07 10:29:05,177 - INFO - predict - Prediction: rice - Host: HP14-Win10
