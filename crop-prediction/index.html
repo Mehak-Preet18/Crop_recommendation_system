@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Crop Prediction Form</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-image: linear-gradient(to bottom, #f7f7f7, #e0e0e0);
+    }
+    .container {
+        max-width: 800px;
+        margin: 50px auto;
+        background-color: #fff;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        padding: 20px;
+    }
+    header {
+        background-color: #4CAF50;
+        color: #fff;
+        text-align: center;
+        padding: 20px 0;
+        border-top-left-radius: 8px;
+        border-top-right-radius: 8px;
+    }
+    footer {
+        background-color: #333;
+        color: #fff;
+        text-align: center;
+        padding: 20px 0;
+        border-bottom-left-radius: 8px;
+        border-bottom-right-radius: 8px;
+    }
+    h1, h2 {
+        margin: 0;
+    }
+    form {
+        padding: 20px;
+    }
+    label {
+        display: block;
+        margin-bottom: 8px;
+        font-weight: bold;
+        color: #333;
+    }
+    .form-group {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 20px;
+    }
+    .form-group label {
+        flex-basis: 40%;
+    }
+    .form-group input[type="text"],
+    .form-group input[type="number"] {
+        flex-basis: 55%;
+        padding: 12px;
+        border: 1px solid #ccc;
+        border-radius: 6px;
+        box-sizing: border-box;
+        font-size: 16px;
+    }
+    input[type="submit"] {
+        width: 100%;
+        padding: 12px;
+        background-color: #4CAF50;
+        color: white;
+        border: none;
+        border-radius: 6px;
+        cursor: pointer;
+        font-size: 16px;
+    }
+    input[type="submit"]:hover {
+        background-color: #45a049;
+    }
+</style>
+</head>
+<body>
+
+<header>
+    <h1>Crop Prediction Tool</h1>
+</header>
+
+<div class="container">
+    <h2>Crop Prediction Form</h2>
+    <form id="cropForm">
+        <div class="form-group">
+            <label for="N">N (Nitrogen)</label>
+            <input type="number" id="N" name="N" required>
+        </div>
+
+        <div class="form-group">
+            <label for="P">P (Phosphorus)</label>
+            <input type="number" id="P" name="P" required>
+        </div>
+
+        <div class="form-group">
+            <label for="K">K (Potassium)</label>
+            <input type="number" id="K" name="K" required>
+        </div>
+
+        <div class="form-group">
+            <label for="temperature">Temperature (°C)</label>
+            <input type="number" id="temperature" name="temperature" required>
+        </div>
+
+        <div class="form-group">
+            <label for="humidity">Humidity (%)</label>
+            <input type="number" id="humidity" name="humidity" required>
+        </div>
+
+        <div class="form-group">
+            <label for="ph">pH</label>
+            <input type="number" id="ph" name="ph" step="0.1" required>
+        </div>
+
+        <div class="form-group">
+            <label for="rainfall">Rainfall (mm)</label>
+            <input type="number" id="rainfall" name="rainfall" required>
+        </div>
+
+        <input type="submit" value="Predict">
+    </form>
+</div>
+
+<footer>
+    <p>&copy; 2024 Crop Prediction Tool. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
